@@ -1,0 +1,9 @@
+group: pubmedqa_mc_pro
+task:
+  - pubmedqa_mc_pro_level1
+  - pubmedqa_mc_pro_level2
+  - pubmedqa_mc_pro_level3
+aggregate_metric_list:
+  - metric: exact_match
+metadata:
+  version: 1.0
